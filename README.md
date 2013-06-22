@@ -1,2 +1,2 @@
-Python PhH Django Tutorial App
+Python PH Django Tutorial App
 by Jon Danao
